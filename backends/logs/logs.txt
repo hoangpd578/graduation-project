@@ -1,0 +1,624 @@
+2020-12-28 13:03:28.705 | INFO     | __main__:<module>:30 - Collect Employee's image.
+2020-12-28 13:03:28.705 | INFO     | utils.cap_image_tool:cap_image:23 - Loading facial landmark predictior.
+2020-12-28 13:03:30.377 | INFO     | utils.cap_image_tool:cap_image:28 - Camare ready.
+2020-12-28 13:03:32.904 | INFO     | utils.cap_image_tool:cap_image:37 - Collecting image.
+2020-12-28 13:03:40.948 | INFO     | utils.cap_image_tool:cap_image:61 - Collecting: 5/20
+2020-12-28 13:03:48.611 | INFO     | utils.cap_image_tool:cap_image:61 - Collecting: 10/20
+2020-12-28 13:03:56.893 | INFO     | utils.cap_image_tool:cap_image:61 - Collecting: 15/20
+2020-12-28 13:04:04.548 | INFO     | utils.cap_image_tool:cap_image:61 - Collecting: 20/20
+2020-12-28 13:04:12.156 | INFO     | utils.cap_image_tool:cap_image:61 - Collecting: 25/20
+2020-12-28 13:04:12.980 | INFO     | controllers.user_controller:create_user:21 - Record inserted successfully into Users table.
+2020-12-28 13:04:12.980 | INFO     | utils.cap_image_tool:text2sound:103 - Coverting name to Audio.
+2020-12-28 13:04:13.948 | INFO     | utils.image2vec:image2vec:43 - Loading images.
+2020-12-28 13:04:13.948 | INFO     | utils.image2vec:image2vec:44 - Embedding images.png
+2020-12-28 13:04:13.951 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 0/297 images
+2020-12-28 13:04:15.739 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 5/297 images
+2020-12-28 13:04:17.124 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 10/297 images
+2020-12-28 13:04:18.613 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 15/297 images
+2020-12-28 13:04:20.079 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 20/297 images
+2020-12-28 13:04:21.576 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 25/297 images
+2020-12-28 13:04:23.085 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 30/297 images
+2020-12-28 13:04:24.523 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 35/297 images
+2020-12-28 13:04:25.971 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 40/297 images
+2020-12-28 13:04:27.402 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 45/297 images
+2020-12-28 13:04:28.980 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 50/297 images
+2020-12-28 13:04:30.573 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 55/297 images
+2020-12-28 13:04:32.017 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 60/297 images
+2020-12-28 13:04:33.442 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 65/297 images
+2020-12-28 13:04:34.914 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 70/297 images
+2020-12-28 13:04:36.563 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 75/297 images
+2020-12-28 13:04:38.055 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 80/297 images
+2020-12-28 13:04:39.732 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 85/297 images
+2020-12-28 13:04:41.182 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 90/297 images
+2020-12-28 13:04:42.772 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 95/297 images
+2020-12-28 13:04:44.642 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 100/297 images
+2020-12-28 13:04:46.250 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 105/297 images
+2020-12-28 13:04:47.688 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 110/297 images
+2020-12-28 13:04:49.294 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 115/297 images
+2020-12-28 13:04:51.247 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 120/297 images
+2020-12-28 13:04:52.762 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 125/297 images
+2020-12-28 13:04:54.266 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 130/297 images
+2020-12-28 13:04:55.798 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 135/297 images
+2020-12-28 13:04:57.470 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 140/297 images
+2020-12-28 13:04:58.924 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 145/297 images
+2020-12-28 13:05:00.335 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 150/297 images
+2020-12-28 13:05:02.486 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 155/297 images
+2020-12-28 13:05:04.091 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 160/297 images
+2020-12-28 13:05:05.604 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 165/297 images
+2020-12-28 13:05:07.144 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 170/297 images
+2020-12-28 13:05:08.702 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 175/297 images
+2020-12-28 13:05:10.220 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 180/297 images
+2020-12-28 13:05:11.691 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 185/297 images
+2020-12-28 13:05:13.086 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 190/297 images
+2020-12-28 13:05:14.911 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 195/297 images
+2020-12-28 13:05:16.396 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 200/297 images
+2020-12-28 13:05:17.864 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 205/297 images
+2020-12-28 13:05:20.116 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 210/297 images
+2020-12-28 13:05:21.759 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 215/297 images
+2020-12-28 13:05:23.493 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 220/297 images
+2020-12-28 13:05:25.519 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 225/297 images
+2020-12-28 13:05:27.037 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 230/297 images
+2020-12-28 13:05:29.144 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 235/297 images
+2020-12-28 13:05:31.083 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 240/297 images
+2020-12-28 13:05:33.038 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 245/297 images
+2020-12-28 13:05:34.523 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 250/297 images
+2020-12-28 13:05:36.594 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 255/297 images
+2020-12-28 13:05:38.197 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 260/297 images
+2020-12-28 13:05:40.119 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 265/297 images
+2020-12-28 13:05:41.775 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 270/297 images
+2020-12-28 13:05:43.290 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 275/297 images
+2020-12-28 13:05:44.819 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 280/297 images
+2020-12-28 13:05:46.260 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 285/297 images
+2020-12-28 13:05:48.052 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 290/297 images
+2020-12-28 13:05:49.853 | INFO     | utils.image2vec:image2vec:55 - Embedding images: 295/297 images
+2020-12-28 13:05:50.646 | INFO     | utils.train_classifier:run_classifier:45 - Classifying.
+2020-12-28 13:05:55.866 | INFO     | __main__:<module>:40 - PHAN_DANG_HOANG
+2020-12-28 13:16:08.695 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-28 13:16:08.699 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-28 13:16:08.700 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-28 13:16:08.817 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-28 13:16:10.435 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-28 13:16:12.952 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-28 13:16:16.724 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-28 13:16:16.726 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-28 13:16:16.733 | INFO     | controllers.employee_controller:create_employee:25 - Record inserted successfully into Employees table.
+2020-12-28 13:16:19.292 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:19.298 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:22.326 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:22.333 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:25.389 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:25.395 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:28.427 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:28.434 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:31.746 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:31.765 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:43.474 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:43.482 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:46.463 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:46.484 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:16:55.782 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:16:55.789 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:04.894 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-28 13:17:04.895 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-28 13:17:04.917 | INFO     | controllers.employee_controller:create_employee:25 - Record inserted successfully into Employees table.
+2020-12-28 13:17:14.029 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:14.039 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:16.813 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:16.827 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:25.930 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:25.941 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:29.144 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:29.157 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:31.958 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:31.966 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:41.098 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:41.117 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:44.108 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:44.117 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:47.443 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:47.470 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:17:58.136 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:17:58.173 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:18:02.650 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:18:02.659 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:18:21.687 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:18:21.694 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:18:27.466 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:18:27.479 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:18:31.396 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:18:31.406 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:25:25.912 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-28 13:25:25.913 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-28 13:25:25.914 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-28 13:25:26.043 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-28 13:25:27.632 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-28 13:25:30.146 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-28 13:25:33.843 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-28 13:25:33.844 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-28 13:25:33.847 | INFO     | controllers.employee_controller:check_employee:40 - Employee's information is existing on DB.
+2020-12-28 13:25:36.494 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:25:36.504 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:25:45.745 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:25:45.756 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:25:48.721 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:25:48.747 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:25:57.817 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-28 13:25:57.818 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-28 13:25:57.824 | INFO     | controllers.employee_controller:check_employee:40 - Employee's information is existing on DB.
+2020-12-28 13:26:28.334 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:26:28.345 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:26:40.162 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:26:40.169 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:07.644 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:07.657 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:13.720 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:13.726 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:22.826 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:22.840 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:26.087 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:26.096 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:35.139 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:35.146 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:41.108 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:41.114 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:27:47.198 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:27:47.204 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:28:35.663 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:28:35.670 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:28:38.716 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:28:38.722 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:28:54.602 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:28:54.614 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:29:12.742 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:29:12.748 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:30:49.778 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:30:49.796 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:30:52.697 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:30:52.705 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:30:56.040 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:30:56.052 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:30:58.856 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:30:58.864 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:31:29.068 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:31:29.084 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:32:07.186 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:32:07.194 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:33:18.668 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:33:18.676 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:33:49.286 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:33:49.301 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:34:56.468 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:34:56.501 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:35:05.642 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:35:05.653 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:35:14.744 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:35:14.757 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:35:17.756 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:35:17.764 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:35:20.741 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:35:20.746 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:35:23.831 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:35:23.836 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:36:44.053 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:36:44.059 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:37:41.514 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:37:41.522 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:38:17.987 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:38:17.994 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:39:12.170 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:39:12.177 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:43:25.063 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:43:25.073 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:43:28.146 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:43:28.172 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:43:46.327 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:43:46.346 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:43:54.449 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:43:54.463 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:43:57.597 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:43:57.608 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:44:00.459 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:44:00.470 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:44:03.581 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:44:03.586 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:44:06.512 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:44:06.518 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:44:12.567 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:44:12.580 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:44:15.610 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:44:15.620 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:45:25.432 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:45:25.456 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:46:10.962 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:46:10.980 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:47:05.402 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:47:05.442 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:53:25.177 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:53:25.193 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:53:40.246 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:53:40.253 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:57:23.103 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:57:23.114 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 13:57:41.107 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 13:57:41.114 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:00:15.744 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:00:15.757 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:00:21.644 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:00:21.650 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:00:49.116 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:00:49.129 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:06:51.383 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:06:51.400 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:09:58.300 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:09:58.311 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:10:04.270 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:10:04.283 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:15:27.014 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:15:27.030 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:15:33.006 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:15:33.027 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:16:26.334 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:16:26.360 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:16:29.533 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:16:29.556 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:17:11.803 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:17:11.840 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:17:31.436 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:17:31.442 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:17:34.442 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:17:34.449 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:18:01.405 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:18:01.424 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:18:11.989 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:18:12.014 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:01.662 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:01.672 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:06.751 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:06.765 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:09.734 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:09.748 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:12.699 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:12.702 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:15.686 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:15.693 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:18.729 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:18.745 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:31.544 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:31.551 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:34.745 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:34.748 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:37.949 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:37.961 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:41.128 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:41.162 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:44.176 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:44.183 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:19:51.640 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:19:51.648 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:21:34.259 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:21:34.274 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:32.561 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:32.565 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:37.417 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:37.440 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:40.511 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:40.525 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:43.418 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:43.422 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:46.763 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:46.772 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:22:56.063 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:22:56.066 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:24:51.959 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:24:51.965 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:27:39.147 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:27:39.156 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:31:36.729 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:31:36.749 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:33:31.655 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:33:31.676 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:34:11.319 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:34:11.341 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:34:49.341 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:34:49.353 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:34:55.462 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:34:55.481 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:35:10.888 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:35:10.906 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:35:13.738 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:35:13.752 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:35:17.314 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:35:17.335 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:35:23.179 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:35:23.204 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:35:31.232 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:35:31.247 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:36:15.394 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:36:15.417 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:36:57.591 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:36:57.611 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:37:03.519 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:37:03.541 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:37:30.736 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:37:30.743 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:37:43.462 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:37:43.508 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:37:55.207 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:37:55.214 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:38:16.366 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:38:16.387 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:38:52.304 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:38:52.345 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:38:58.380 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:38:58.390 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:01.252 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:01.273 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:04.149 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:04.166 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:15.096 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:15.117 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:25.382 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:25.396 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:38.398 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:38.419 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:39:50.513 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:39:50.521 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:40:02.810 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:40:02.816 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:40:07.270 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:40:07.278 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:40:10.370 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:40:10.391 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:40:19.720 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:40:19.738 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:40:22.658 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:40:22.685 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:08.579 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:08.592 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:11.465 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:11.481 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:14.473 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:14.491 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:17.909 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:17.926 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:23.753 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:23.763 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:26.776 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:26.792 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:41:29.906 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:41:29.913 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:43:31.622 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:43:31.630 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:43:49.691 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:43:49.698 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:44:08.038 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:44:08.045 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:44:10.964 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:44:10.970 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:44:17.211 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:44:17.232 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:44:20.478 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:44:20.487 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:44:41.525 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:44:41.532 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:46:26.576 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:46:26.586 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:47:03.323 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:47:03.351 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:47:06.128 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:47:06.136 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:54:45.441 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:54:45.481 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:55:49.648 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:55:49.669 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:56:08.407 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:56:08.414 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:56:53.873 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:56:53.880 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:57:23.559 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:57:23.575 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:57:26.445 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:57:26.471 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 14:57:29.586 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 14:57:29.604 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:01:42.421 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-28 15:01:42.425 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-28 15:01:42.466 | INFO     | controllers.employee_controller:create_employee:25 - Record inserted successfully into Employees table.
+2020-12-28 15:03:09.438 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:03:09.448 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:09:37.740 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:09:37.772 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:09:43.935 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:09:43.971 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:09:47.343 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:09:47.385 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:11:09.050 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:11:09.062 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:11:33.367 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:11:33.373 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:11:36.389 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:11:36.398 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:14:58.425 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:14:58.464 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:15:23.559 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:15:23.575 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:18:37.337 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:18:37.343 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:18:56.004 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:18:56.010 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:08.080 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:08.090 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:14.251 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:14.273 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:20.981 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:21.026 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:27.867 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:27.892 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:31.013 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:31.049 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:34.062 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:34.069 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:37.110 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:37.135 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:40.115 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:40.144 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:19:42.986 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:19:42.992 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:20:13.325 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:20:13.361 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:21:10.999 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:21:11.043 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:21:48.152 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:21:48.173 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:21:54.265 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:21:54.273 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:21:57.231 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:21:57.253 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:22:22.644 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:22:22.658 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:22:34.969 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:22:34.987 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:23:05.528 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:23:05.550 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:23:38.761 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:23:38.766 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:23:44.654 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:23:44.703 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:24:00.176 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:24:00.200 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:24:15.596 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:24:15.604 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:24:18.480 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:24:18.501 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:27:59.303 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:27:59.322 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:17.486 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:17.494 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:26.519 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:26.534 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:29.626 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:29.635 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:32.747 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:32.772 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:35.826 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:35.847 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:28:48.044 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:28:48.053 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:29:06.386 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:29:06.392 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:30:43.005 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:30:43.013 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:32:37.313 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:32:37.320 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:38:42.769 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:38:42.777 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:38:52.439 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:38:52.446 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:43:53.521 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:43:53.530 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:47:01.128 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:47:01.140 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:47:16.248 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:47:16.263 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:48:13.810 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:48:13.857 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:48:38.831 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:48:38.849 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:50:24.518 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:50:24.531 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:50:33.586 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:50:33.602 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:50:36.687 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:50:36.694 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:50:39.902 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:50:39.929 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:52:13.592 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:52:13.598 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:52:28.769 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:52:28.792 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:53:21.373 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:53:21.386 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:57:29.350 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:57:29.361 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:57:50.938 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:57:50.976 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:57:57.022 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:57:57.029 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:58:00.186 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:58:00.216 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-28 15:59:00.532 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-28 15:59:00.568 | INFO     | controllers.employee_controller:update_database:61 - Successfully in updated information of check out.
+2020-12-30 23:55:39.146 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-30 23:55:39.151 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-30 23:55:39.152 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-30 23:55:39.338 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-30 23:55:41.040 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-30 23:55:43.570 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-30 23:55:50.245 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-30 23:55:50.246 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-30 23:55:53.275 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-30 23:55:56.313 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-30 23:55:59.351 | INFO     | __main__:run_camera:143 - Update information of check out to DB
+2020-12-31 00:20:28.943 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 00:20:28.943 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 00:20:28.943 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 00:20:29.059 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 00:20:30.745 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 00:20:33.261 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 00:20:51.974 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-31 00:20:51.975 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-31 00:21:21.908 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 00:21:21.909 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 00:21:21.909 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 00:21:22.014 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 00:21:23.557 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 00:21:26.071 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 00:21:29.771 | INFO     | __main__:run_camera:126 - Successful check in.
+2020-12-31 00:21:29.771 | INFO     | __main__:run_camera:132 - Insert information of check in to DB.
+2020-12-31 00:22:22.757 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 00:22:22.757 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 00:22:22.757 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 00:22:22.873 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 00:22:24.447 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 00:22:26.960 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 08:47:22.186 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 08:47:22.190 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 08:47:22.190 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 08:47:22.369 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 08:47:24.010 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 08:47:26.538 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 08:50:30.585 | INFO     | __main__:run_camera:127 - Successful check in.
+2020-12-31 08:50:30.587 | INFO     | __main__:run_camera:133 - Insert information of check in to DB.
+2020-12-31 08:50:37.440 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 08:50:37.441 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 08:50:37.441 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 08:50:37.553 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 08:50:39.139 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 08:50:41.654 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 08:52:55.727 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 08:52:55.727 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 08:52:55.728 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 08:52:55.843 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 08:52:57.439 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 08:52:59.956 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 08:54:10.251 | INFO     | __main__:run_camera:28 - Create log.
+2020-12-31 08:54:10.251 | INFO     | __main__:run_camera:34 - Loading name.
+2020-12-31 08:54:10.252 | INFO     | __main__:run_camera:37 - Loading model.
+2020-12-31 08:54:10.366 | INFO     | __main__:run_camera:43 - Loading facial landmark preditor.
+2020-12-31 08:54:11.955 | INFO     | __main__:run_camera:48 - Ready camera.
+2020-12-31 08:54:14.469 | INFO     | __main__:run_camera:58 - Load model embedding.
+2020-12-31 08:54:23.832 | INFO     | __main__:run_camera:129 - Successful check in.
+2020-12-31 08:54:23.834 | INFO     | __main__:run_camera:135 - Insert information of check in to DB.
+2020-12-31 08:55:28.037 | INFO     | __main__:run_camera:129 - Successful check in.
+2020-12-31 08:55:28.039 | INFO     | __main__:run_camera:135 - Insert information of check in to DB.
+2020-12-31 08:55:49.299 | INFO     | __main__:run_camera:129 - Successful check in.
+2020-12-31 08:55:49.300 | INFO     | __main__:run_camera:135 - Insert information of check in to DB.
+2020-12-31 08:55:56.603 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:57:48.427 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:57:54.668 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:57:57.898 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:59:04.466 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:59:07.490 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 08:59:16.848 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 09:00:15.569 | INFO     | __main__:run_camera:146 - Update information of check out to DB
+2020-12-31 09:07:09.749 | INFO     | utils.train_classifier:run_classifier:45 - Classifying.

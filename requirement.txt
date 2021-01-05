@@ -1,0 +1,11 @@
+imutils
+opencv-python
+tensorflow
+keras_vggface
+keras
+dlib
+playsound
+cmake
+python==3.6
+loguru
+
